@@ -11,7 +11,7 @@ git clone [this_repository] [directory_yourself]
 git remote rm origin
 git checkout --orphan tmp
 git commit -m "first commit"
-git checkout -B master
+git checkout -B main
 git branch -d tmp
 ```
 
