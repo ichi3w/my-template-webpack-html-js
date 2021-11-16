@@ -15,6 +15,8 @@ git checkout -B main
 git branch -d tmp
 ```
 
+その後、`npm i` にてパッケージをインストール。
+
 ---
 🚀 Welcome to your new awesome project!
 
